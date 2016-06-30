@@ -1,7 +1,7 @@
 Rotate Image Web App
 ====================
 
-URL: http://rotateimage.appspot.com/
+~~URL: http://rotateimage.appspot.com/~~
 ------------------------------------
 
 > Created a google app engine application 
@@ -23,13 +23,13 @@ URL: http://rotateimage.appspot.com/
 An Sample image is rotated by 45 degrees and the output is e-mailed to the user.
 
  - Image:
-![alt bat](https://github.uc.edu/fnumr/cs6065_hw3/raw/master/Example/a-1.png)
+![alt bat](Example/a-1.png)
 
  - Web app homepage
-![alt rotate image homepage](https://github.uc.edu/fnumr/cs6065_hw3/raw/master/Example/rotateImageHome.png)
+![alt rotate image homepage](Example/rotateImageHome.png)
 
  - Web app output
-![alt rotate image result](https://github.uc.edu/fnumr/cs6065_hw3/raw/master/Example/rotateImageOutput.png)
+![alt rotate image result](Example/rotateImageOutput.png)
 
  - Email message screenshot
-![alt e-mail screenshot](https://github.uc.edu/fnumr/cs6065_hw3/raw/master/Example/mail.png)
+![alt e-mail screenshot](Example/mail.png)
